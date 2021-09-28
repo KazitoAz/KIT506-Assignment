@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\View\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\View\View\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\View\View\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\View\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\DELL\source\repos\View\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\DELL\source\repos\View\View\obj\Debug\SupervisionName.baml
+C:\Users\DELL\source\repos\View\View\obj\Debug\NameControl.g.cs
+C:\Users\DELL\source\repos\View\View\obj\Debug\SupervisionName.g.cs
+C:\Users\DELL\source\repos\View\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\source\repos\View\View\obj\Debug\Level.g.cs
